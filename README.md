@@ -55,7 +55,7 @@ See [EVALUATION_RUBRIC.md](EVALUATION_RUBRIC.md) for scoring criteria (do not in
 - **Server:** localhost:1433
 - **Database:** MilkingSystem
 - **User:** sa
-- **Password:** MilkingSystem123!
+- **Password:** xxxxxxxxxx
 
 ## API Endpoints
 
